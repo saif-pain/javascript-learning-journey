@@ -23,5 +23,19 @@
 **Practice File:**
 - [`Day-2-Control-Structures/control-structures.js`](./Day-2-Control-Structures/control-structures.js)
 
-✅ Moving to Day 3: More error handling and deeper loop patterns.
+---
+
+## ✅ Day 3 - Advanced Loops & Error Handling
+
+**Topics Covered:**
+- `break` and `continue` in loops
+- Nested loops (multiplication tables)
+- `throw` and custom error messages
+- Input validation with `try...catch`
+
+**Practice File:**
+- [`Day-3-Loops-ErrorHandling/advanced-control.js`](./Day-3-Loops-ErrorHandling/advanced-control.js)
+
+🔄 Coming up: Day 4 – Working with Functions!
+
 
