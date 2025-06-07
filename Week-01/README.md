@@ -12,4 +12,16 @@
 
 ---
 
-✅ Ready for Day 2: Control Structures!
+## ✅ Day 2 - Control Structures
+
+**Topics Covered:**
+- `if`, `else if`, and `else` statements
+- `switch` case usage
+- Looping with `for`, `while`, `do...while`
+- `try...catch` error handling with `finally`
+
+**Practice File:**
+- [`Day-2-Control-Structures/control-structures.js`](./Day-2-Control-Structures/control-structures.js)
+
+✅ Moving to Day 3: More error handling and deeper loop patterns.
+
